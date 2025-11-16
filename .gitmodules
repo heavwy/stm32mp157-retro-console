@@ -1,0 +1,12 @@
+[submodule "buildroot"]
+	path = buildroot
+	url = https://gitlab.com/buildroot.org/buildroot.git
+[submodule "tf-a-stm32mp"]
+	path = tf-a-stm32mp
+	url = https://github.com/STMicroelectronics/arm-trusted-firmware.git
+[submodule "u-boot-stm32mp"]
+	path = u-boot-stm32mp
+	url = https://github.com/STMicroelectronics/u-boot.git
+[submodule "linux-stm32mp"]
+	path = linux-stm32mp
+	url = https://github.com/STMicroelectronics/linux.git
